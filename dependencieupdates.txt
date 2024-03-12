@@ -1,0 +1,5 @@
+Package                      Current  Wanted  Latest  Location                                  Depended by
+@testing-library/jest-dom     5.17.0  5.17.0   6.4.2  node_modules/@testing-library/jest-dom    jenkins-demo-react
+@testing-library/react        13.4.0  13.4.0  14.2.1  node_modules/@testing-library/react       jenkins-demo-react
+@testing-library/user-event   13.5.0  13.5.0  14.5.2  node_modules/@testing-library/user-event  jenkins-demo-react
+web-vitals                     2.1.4   2.1.4   3.5.2  node_modules/web-vitals                   jenkins-demo-react
